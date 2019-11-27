@@ -1,0 +1,7 @@
+ {
+    "mongodb":" mongodb://127.0.0.1:27017",
+    "jwtSecret":"mySecretToken",
+    "githubClientId":"621103499d545d907ffd",
+    "gitHubSecret":"0daa2aac67aea68b822cc158f406390331b3a4ee"
+}
+

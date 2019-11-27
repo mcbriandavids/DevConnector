@@ -1,0 +1,14 @@
+{
+  "git.ignoreLimitWarning": true,
+
+  "cSpell.language": "en,en-US",
+  "jshint.options": {
+    "esversion": 6
+  },
+
+  "jshint.enable": true,
+  "eslint.enable": true,
+  "eslint.autoFixOnSave": true
+  
+
+}
